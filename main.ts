@@ -1,0 +1,17 @@
+while (true) {
+    basic.showIcon(IconNames.SmallDiamond)
+    basic.pause(100)
+    basic.showIcon(IconNames.Diamond)
+    basic.pause(100)
+    basic.showIcon(IconNames.Target)
+    basic.pause(100)
+    basic.showIcon(IconNames.Diamond)
+    basic.pause(100)
+    basic.showIcon(IconNames.SmallDiamond)
+    basic.pause(100)
+    basic.showIcon(IconNames.SmallHeart)
+    basic.pause(100)
+    basic.showIcon(IconNames.Heart)
+    basic.pause(100)
+    basic.showIcon(IconNames.Happy)
+}
